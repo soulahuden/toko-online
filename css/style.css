@@ -8,3 +8,12 @@ header {
     color: white;
     padding: 16px;
 }
+
+.product-card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 16px;
+    margin: 12px;
+    display: inline-block;
+    width: 200px;
+}
