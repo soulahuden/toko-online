@@ -8,3 +8,12 @@ header {
     color: white;
     padding: 16px;
 }
+
+nav a {
+    color: white;
+    margin-right: 12px;
+    text-decoration: none;
+}
+    nav a:hover {
+    text-decoration: underline;
+}
