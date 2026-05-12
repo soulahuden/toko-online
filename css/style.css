@@ -4,8 +4,9 @@ body {
     padding: 0;
 }
 header {
-    background-color: #1a73e8;
+    background-color: #e53935;
     color: white;
-    padding: 16px;
+    padding: 20px;
     font-size: 18px;
+    letter-spacing: 1px;
 }
