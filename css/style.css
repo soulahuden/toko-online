@@ -4,7 +4,7 @@ body {
     padding: 0;
 }
 header {
-    background-color: #333;
+    background-color: #e53935;
     color: white;
     padding: 16px;
 }
@@ -16,4 +16,7 @@ header {
     margin: 12px;
     display: inline-block;
     width: 200px;
+    padding: 20px;
+    font-size: 18px;
+    letter-spacing: 1px;
 }
